@@ -1,0 +1,11 @@
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\bin\Debug\netcoreapp3.1\Algorithm_Practice.exe
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\bin\Debug\netcoreapp3.1\Algorithm_Practice.deps.json
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\bin\Debug\netcoreapp3.1\Algorithm_Practice.runtimeconfig.json
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\bin\Debug\netcoreapp3.1\Algorithm_Practice.runtimeconfig.dev.json
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\bin\Debug\netcoreapp3.1\Algorithm_Practice.dll
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\bin\Debug\netcoreapp3.1\Algorithm_Practice.pdb
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\obj\Debug\netcoreapp3.1\Algorithm_Practice.csprojAssemblyReference.cache
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\obj\Debug\netcoreapp3.1\Algorithm_Practice.AssemblyInfoInputs.cache
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\obj\Debug\netcoreapp3.1\Algorithm_Practice.AssemblyInfo.cs
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\obj\Debug\netcoreapp3.1\Algorithm_Practice.dll
+D:\CPSC_Projects\personal_projects\Algorithm_Practice\obj\Debug\netcoreapp3.1\Algorithm_Practice.pdb
